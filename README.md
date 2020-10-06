@@ -1,4 +1,3 @@
-# Phonebook fullstack
+# Volunteer Network Server
 
-frontend link: https://foyez-phonebook.herokuapp.com/
-api link: https://foyez-phonebook.herokuapp.com/api/persons
+frontend link: https://github.com/foyez-kazi/volunteer-network-client
