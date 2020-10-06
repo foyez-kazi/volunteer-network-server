@@ -1,0 +1,19 @@
+GET http://localhost:3001/api/persons
+
+###
+
+GET http://localhost:3001/api/persons/2
+
+###
+
+DELETE http://localhost:3001/api/volunteer/5f7b4e4bcb54102c980366e6
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "Foyez Ahmed",
+  "number": "11-2234-234"
+}
